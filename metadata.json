@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tourism - AI Trip Planner & Travel Platform",
+  "description": "Comprehensive India travel portal featuring AI trip planning powered by Gemini, hotel booking, adventure activities, travel guides & vehicle hire, local food, and itinerary management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
